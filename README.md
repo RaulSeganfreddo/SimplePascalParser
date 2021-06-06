@@ -23,6 +23,8 @@ Example:
 ```
 ./syncheck test/valid.pas
 ```
+### Usage note:
+If you try to use tests that you find in the ***test*** directory, it's normal that test from 5 to 8 output "***1 syntax error found***".
 
-### Credits:
+## Credits:
 This is a little project I made as a test for my university ([Universita' Degli Studi di Padova](https://www.unipd.it/)), so part of the project is the foundation they gave me to build all.
