@@ -14,7 +14,7 @@ Parser generation to check the syntax of Pascal code.
 - Test: directory that contains some tests.
 
 ## Set up:
-You need to download ANTLR v4 from the official page (https://www.antlr.org/download.html) and the c++ runtime dev "libantlr4-runtime-dev" (https://packages.debian.org/sid/libantlr4-runtime-dev).
+You need to download ANTLR v4 from the [official page](https://www.antlr.org/download.html) and the c++ runtime dev, [libantlr4-runtime-dev](https://packages.debian.org/sid/libantlr4-runtime-dev).
 
 ## Usage:
 First use the command ```make``` (to reverse it use ```make clean```).
